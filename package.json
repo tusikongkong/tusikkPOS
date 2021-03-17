@@ -1,0 +1,17 @@
+{
+  "name": "tusikk",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "repository": "https://github.com/tusikongkong/tusikkPOS.git",
+  "author": "liuting <liuting33@meituan.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
