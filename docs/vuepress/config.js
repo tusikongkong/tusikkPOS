@@ -6,8 +6,7 @@ module.exports = {
     ],
     themeConfig: {
         nav: [
-            {test: '概述', link: '/'},
-            {text: '前端'}
+            {test: '概述', link: '/sum'}
         ]
     }
 }
